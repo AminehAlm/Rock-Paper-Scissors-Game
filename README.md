@@ -43,20 +43,22 @@ You can play either **against the computer** or in **two-player mode** with a fr
 
 ```python
 self.winnerchoices = [(1, 3), (2, 1), (3, 2)]
-
+```
 •	Each tuple represents a winning (winner, loser) pair
 •	Scores are added automatically and shown at the end of the match
-```
+
 
 ## ⚙️ Installation & Setup
 
 **1. Clone the Repository**
-```git clone https://github.com/AminehAlm/rock-paper-scissors.git
+```
+git clone https://github.com/AminehAlm/rock-paper-scissors.git
 cd rock-paper-scissors
 ```
 
 **2. (Optional) Create a Virtual Environment**
-```python -m venv venv
+```
+python -m venv venv
 # macOS/Linux
 source venv/bin/activate
 # Windows
@@ -70,7 +72,8 @@ python main.py
 💡 The game will start in your terminal. Follow the on-screen prompts.
 
 ## 🎮 Example Gameplay
-```Welcome to Rock, Paper, Scissors Game :)
+```
+Welcome to Rock, Paper, Scissors Game :)
 Please select the mode:
 1: Play with computer
 2: Play with another player
@@ -96,7 +99,8 @@ Congratulations! You won the game!
 ```
 
 ## 🗂️ File Structure
-```rock-paper-scissors/
+```
+rock-paper-scissors/
 │
 ├── main.py              # Main game logic
 ├── game_results.txt     # Game history (auto-generated)
@@ -125,12 +129,13 @@ ________________________________________
 
 Amineh Alimohammadi
 💬 A passionate learner exploring Python and data projects
-
+🔗 [GitHub Profile](https://github.com/AminehAlm)
 
 ## 📜 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute
-```MIT License
+```
+MIT License
 Copyright (c) 2025 Amineh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
