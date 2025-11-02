@@ -64,7 +64,8 @@ venv\Scripts\activate
 ```
 
 **3. Run the Game**
-```python main.py
+```
+python main.py
 ```
 💡 The game will start in your terminal. Follow the on-screen prompts.
 
@@ -105,7 +106,8 @@ Congratulations! You won the game!
 ```
 
 ## 📁 Example of game_results.txt
-```2025-10-31 12:45:33: Mode 1, Player1: Amineh Score: 30, Computer Score: 10, Winner: Amineh
+```
+2025-10-31 12:45:33: Mode 1, Player1: Amineh Score: 30, Computer Score: 10, Winner: Amineh
 ________________________________________
 ```
 
@@ -123,7 +125,7 @@ ________________________________________
 
 Amineh Alimohammadi
 💬 A passionate learner exploring Python and data projects
-🔗 GitHub Profile￼
+
 
 ## 📜 License
 
