@@ -102,7 +102,7 @@ Congratulations! You won the game!
 ```
 rock-paper-scissors/
 │
-├── main.py              # Main game logic
+├── Rockpaperscissors.py              # Main game logic
 ├── game_results.txt     # Game history (auto-generated)
 ├── README.md            # Documentation
 ├── .gitignore           # Ignored system & cache files
