@@ -48,13 +48,14 @@ self.winnerchoices = [(1, 3), (2, 1), (3, 2)]
 •	Scores are added automatically and shown at the end of the match
 ```
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-1. Clone the Repository
+**1. Clone the Repository**
 ```git clone https://github.com/AminehAlm/rock-paper-scissors.git
-cd rock-paper-scissors```
+cd rock-paper-scissors
+```
 
-3. (Optional) Create a Virtual Environment
+**2. (Optional) Create a Virtual Environment**
 ```python -m venv venv
 # macOS/Linux
 source venv/bin/activate
@@ -62,13 +63,12 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-3. Run the Game
+**3. Run the Game**
 ```python main.py
 ```
-
 💡 The game will start in your terminal. Follow the on-screen prompts.
 
-🎮 Example Gameplay
+## 🎮 Example Gameplay
 ```Welcome to Rock, Paper, Scissors Game :)
 Please select the mode:
 1: Play with computer
@@ -91,22 +91,25 @@ You win this round!
 ...
 🏆 Final Result:
 Computer score is 10 and your score is 20.
-Congratulations! You won the game!```
+Congratulations! You won the game!
+```
 
-🗂️ File Structure
+## 🗂️ File Structure
 ```rock-paper-scissors/
 │
 ├── main.py              # Main game logic
 ├── game_results.txt     # Game history (auto-generated)
 ├── README.md            # Documentation
 ├── .gitignore           # Ignored system & cache files
-└── LICENSE              # License file (MIT recommended)```
+└── LICENSE              # License file (MIT recommended)
+```
 
-📁 Example of game_results.txt
-```2025-10-31 12:45:33: Mode 1, Player1: Amineh Score: 30, Computer Score: 10, Winner: Amineh```
+## 📁 Example of game_results.txt
+```2025-10-31 12:45:33: Mode 1, Player1: Amineh Score: 30, Computer Score: 10, Winner: Amineh
 ________________________________________
+```
 
-🔁 Future Improvements
+## 🔁 Future Improvements
 
 🚀 Ideas for next versions:
 	•	Add graphical interface (Tkinter or PyGame)
@@ -116,13 +119,13 @@ ________________________________________
 
 ⸻
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Amineh Alimohammadi
 💬 A passionate learner exploring Python and data projects
 🔗 GitHub Profile￼
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute
 ```MIT License
@@ -130,5 +133,6 @@ Copyright (c) 2025 Amineh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...```
+in the Software without restriction...
+```
 
